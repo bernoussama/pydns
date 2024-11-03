@@ -4,9 +4,12 @@ A pure python DNS server prototype implementation.
 
 ## Features
 
-[x] Pure python
-[x] No dependencies
-[x] support DNS message compression
+- [x] Pure python
+
+- [x] No dependencies
+
+- [x] support DNS message compression
+
 
 ## Resources
 
