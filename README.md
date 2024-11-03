@@ -6,8 +6,6 @@ A pure python DNS server prototype implementation.
 
 - [x] Pure python
 
-- [x] No dependencies
-
 - [x] support DNS message compression
 
 
