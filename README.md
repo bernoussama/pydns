@@ -1,6 +1,6 @@
 # pydns
 
-A pure python DNS server implementation.
+A pure python DNS server prototype implementation.
 
 ## Features
 
